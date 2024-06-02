@@ -1,6 +1,6 @@
 <?php
 
-namespace SquadTI\OpenObserveMonolog;
+namespace Seguce92\OpenObserveMonolog;
 
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\Log;

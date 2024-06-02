@@ -1,5 +1,5 @@
 {
-    "name": "squadti/openobserve-monolog",
+    "name": "seguce92/openobserve-monolog",
     "description": "Open Observe Monolog Handler is used for pushing laravel log into the OpenObserve for collection and analysis.",
     "keywords": [
         "logger",
@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SquadTI\\OpenObserveMonolog\\": "src/"
+            "Seguce92\\OpenObserveMonolog\\": "src/"
         }
     }
 }

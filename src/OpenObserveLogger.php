@@ -1,6 +1,6 @@
 <?php
 
-namespace SquadTI\OpenObserveMonolog;
+namespace Seguce92\OpenObserveMonolog;
 
 use Monolog\Logger;
 use Symfony\Component\HttpFoundation\Response as ResponseAlias;
