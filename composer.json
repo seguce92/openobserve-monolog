@@ -1,0 +1,35 @@
+{
+    "name": "squadti/openobserve-monolog",
+    "description": "Open Observe Monolog Handler is used for pushing laravel log into the OpenObserve for collection and analysis.",
+    "keywords": [
+        "logger",
+        "laravel",
+        "lumen",
+        "laravel log",
+        "monolog handler",
+        "Openobserve monolog handler",
+        "laravel openobserve monolog handler"
+    ],
+    "homepage": "https://github.com/squadti/openobserve-monolog",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergio G. Cruz Espinoza",
+            "email": "sgcruz@squadti.com",
+            "homepage": "https://squadti.com/",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "illuminate/config": "^8.0|^9.0",
+        "illuminate/support": "^8.0|^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SquadTI\\OpenObserveMonolog\\": "src/"
+        }
+    }
+}
